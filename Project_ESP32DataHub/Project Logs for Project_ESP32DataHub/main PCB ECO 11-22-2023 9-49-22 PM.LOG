@@ -1,0 +1,20 @@
+Change Component Comment : Designator=D1 Old Comment=VS-30BQ015-M3_9AT New Comment=CDBA240LL-HF
+Change Component Comment : Designator=D3 Old Comment=VS-30BQ015-M3_9AT New Comment=CDBA240LL-HF
+Change component parameters: Designator = "D1" ("D1"); Footprint = "DIOM7959X262N"; UniqueID = "\LJUOMHVQ" ("\LJUOMHVQ")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "CDBA240LL-HF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/cdba240ll-hf/comchip-technology?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-DGA22/1401764.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "2.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Comchip Technology"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CDBA240LL-HF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "750-CDBA240LL-HF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Comchip-Technology/CDBA240LL-HF?qs=2qJf6qQ4IOK8%252BRkX5aZc7g%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D3" ("D3"); Footprint = "DIOM7959X262N"; UniqueID = "\EUCBHQNF" ("\EUCBHQNF")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "CDBA240LL-HF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/cdba240ll-hf/comchip-technology?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-DGA22/1401764.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "2.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Comchip Technology"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CDBA240LL-HF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "750-CDBA240LL-HF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Comchip-Technology/CDBA240LL-HF?qs=2qJf6qQ4IOK8%252BRkX5aZc7g%3D%3D"; VariantName = "[No Variations]"

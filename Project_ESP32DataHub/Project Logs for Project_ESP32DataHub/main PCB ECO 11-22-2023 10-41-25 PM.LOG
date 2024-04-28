@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=A_OUT Pin=U2-16
+Change Component Comment : Designator=C1 Old Comment=Cap_0603 New Comment=100nF
+Change Component Comment : Designator=C8 Old Comment=Cap_0603 New Comment=100nF
+Change Component Comment : Designator=R1 Old Comment=Res_0603 New Comment=10k
+Added Pin To Net: NetName=A_OUT Pin=U2-26

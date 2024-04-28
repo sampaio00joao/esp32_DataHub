@@ -1,0 +1,3 @@
+Change Component DesignItemId : Designator=C8 Old DesignItemId=Cap_0805 New DesignItemId=Cap_0603
+Change Component Comment : Designator=C8 Old Comment=100nF New Comment=Cap_0603
+Change Component Description : Designator=C8 Old Description=Capacitor SMD 0805 Generic New Description=Capacitor SMD 0603 Generic

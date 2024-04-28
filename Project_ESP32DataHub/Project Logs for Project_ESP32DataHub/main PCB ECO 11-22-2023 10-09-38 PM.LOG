@@ -1,0 +1,9 @@
+Change Component DesignItemId : Designator=C1 Old DesignItemId=Cap_0805 New DesignItemId=Cap_0603
+Change Component DesignItemId : Designator=R1 Old DesignItemId=Res_0805 New DesignItemId=Res_0603
+Change Component Footprint: Designator=C1 Old Footprint=CAP_0805 New Footprint=CAP_0603
+Change Component Footprint: Designator=R1 Old Footprint=RES_0805 New Footprint=RES_0603
+Change Component Comment : Designator=R1 Old Comment=10k New Comment=Res_0603
+Change Component Comment : Designator=C1 Old Comment=100nF New Comment=Cap_0603
+Change Component Description : Designator=J1 Old Description=1.1mm Pitch microSD Card Connector, Hinge Type, Lead Free New Description=1.1mm Pitch microSD Card Connector, Hinge Type, Lead Free | Molex Incorporated 47219-2001
+Change Component Description : Designator=C1 Old Description=Capacitor SMD 0805 Generic New Description=Capacitor SMD 0603 Generic
+Change Component Description : Designator=R1 Old Description=Resistor SMD 0805 Generic New Description=Resistor SMD 0603 Generic
